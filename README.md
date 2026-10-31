@@ -1,7 +1,8 @@
 # 🎬 Svobodnye Lyudi YouTube Shorts Pipeline
 
 > **AI Legal & Sci-Fi VFX YouTube Shorts Factory**  
-> *Google Flow (Gemini Omni 1.1 Flash) + FFmpeg + Playwright CDP + Edge-TTS + Faster-Whisper*
+> *Google Flow (Gemini Omni 1.1 Flash) + FFmpeg + Playwright CDP + Edge-TTS + Faster-Whisper*  
+> 🌐 **Онлайн-портфолио для заказчиков:** [https://sereban-glitch.github.io/shorts/](https://sereban-glitch.github.io/shorts/)
 
 Автоматизированный конвейер полного цикла для производства вертикальных **YouTube Shorts (1080x1920)** на русском языке для канала **«Свободные Люди Запорожья»**. Конвейер генерирует уникальный видеоряд с эффектами «Невозможной камеры» (Impossible VFX), накладывает всплывающие карточки цитат с подсветкой, караоке-субтитры в безопасной зоне и озвучивает ролик эталонным мужским голосом `ru-RU-DmitryNeural`.
 
