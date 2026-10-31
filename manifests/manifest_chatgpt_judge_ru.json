@@ -1,0 +1,58 @@
+{
+  "project_id": "case_chatgpt_judge_ru",
+  "channel": "Свободные Люди Запорожья",
+  "topic": "Судья написал приговор через ChatGPT: апелляция отменила решение",
+  "source_url": "https://supreme.court.gov.ua/supreme/pres-centr/news/1987559",
+  "case_number": "11-кп/824/1818/2025",
+  "court_name": "Киевский Апелляционный Суд",
+  "decision_date": "30.07.2025",
+  "target_resolution": "1080x1920",
+  "banner_text": "ДЕЛО № 11-КП/824/1818/2025 • ПРИГОВОР ИЗ CHATGPT",
+  "card_badge": "СУД",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "target_duration_sec": 9.5,
+      "voiceover_ru": "Представьте: человека судят по уголовной статье, а судья вместо разбора доказательств просто копирует приговор из ChatGPT! И это не шутка — Киевский апелляционный суд официально отменил такой приговор!",
+      "flow_prompt_en": "Vertical 9:16 extreme macro cinematic shot of a wooden judge gavel resting on a dark polished mahogany desk, next to vintage eyeglasses reflecting glowing emerald-green abstract digital light streams from a monitor in a dark room, dramatic rim lighting, shallow depth of field, slow push-in, 4k, clean composition, text-free, no labels, no watermarks.",
+      "card_text": "Приговор Днепровского районного суда города Киева отменить и назначить новое рассмотрение в суде первой инстанции.",
+      "highlight_substring": "отменить и назначить новое рассмотрение",
+      "card_source": "Киевский апелляционный суд, 30.07.2025",
+      "card_badge": "АПЕЛЛЯЦИЯ",
+      "overlay_header": "ПРИГОВОР ОТМЕНЕН"
+    },
+    {
+      "scene_id": 2,
+      "target_duration_sec": 10.0,
+      "voiceover_ru": "В реальном деле Днепровского райсуда Киева судья решил вообще не напрягаться. Он закинул запрос в нейросеть и вставил в приговор кучу умной теоретической воды — даже не привязав её к доказательствам по делу!",
+      "flow_prompt_en": "Vertical 9:16 cinematic tabletop shot at night, thick paper criminal case folders tied with red ribbon lying open on a wooden desk, bright cyan and golden digital particles rising like fireflies from a sleek glowing glass tablet beside the folders, moody noir lighting, slow camera pan, 4k, clean composition, text-free, no labels, no watermarks.",
+      "card_text": "Содержание приговора отягощено теоретическими аспектами права, сгенерированными искусственным интеллектом \"ChatGPT\", что ставит под сомнение судейское усмотрение.",
+      "highlight_substring": "сгенерированными искусственным интеллектом \"ChatGPT\", что ставит под сомнение судейское усмотрение",
+      "card_source": "Определение по делу № 11-кп/824/1818/2025",
+      "card_badge": "СУД",
+      "overlay_header": "ТЕКСТ ИЗ CHATGPT"
+    },
+    {
+      "scene_id": 3,
+      "target_duration_sec": 10.0,
+      "voiceover_ru": "Апелляция эту халтуру снесла и отправила дело на пересмотр! А в Верховном Суде Украины поставили точку: искусственный интеллект — это лишь шпаргалка, но вершить судьбу человека алгоритм не имеет права.",
+      "flow_prompt_en": "Vertical 9:16 majestic shot inside an empty classic courtroom, antique brass scales of justice gleaming in dramatic morning sunbeams streaming through tall windows, golden dust motes floating in the air, slow cinematic orbit shot, 4k, clean composition, text-free, no labels, no watermarks.",
+      "card_text": "Машина — это что угодно, но не суд. Искусственный интеллект может быть вспомогательным инструментом, но не может заменить роль судей.",
+      "highlight_substring": "не может заменить роль судей",
+      "card_source": "Судьи Верховного Суда Украины, 11.03.2026",
+      "card_badge": "ВЕРХОВНЫЙ СУД",
+      "overlay_header": "ПОЗИЦИЯ ВЕРХОВНОГО СУДА"
+    },
+    {
+      "scene_id": 4,
+      "target_duration_sec": 10.0,
+      "voiceover_ru": "Хотя, если честно, половину наших чиновников в кабинетах нейросеть заменила бы уже сегодня — она хотя бы Конституцию читала, на обед не уходит и взяток за справки не просит! Согласны ли вы с этим? Напишите в комментариях и подписывайтесь!",
+      "flow_prompt_en": "Vertical 9:16 triumphant cinematic shot of massive carved oak courthouse doors slowly swinging open toward a bright golden sunrise over a modern city skyline, warm volumetric sunrays flooding the marble corridor, uplifting dolly forward movement, 4k, clean composition, text-free, no labels, no watermarks.",
+      "card_text": "А вы бы заменили чиновников на нейросеть? Она хотя бы Конституцию читала, на обед не уходит и взяток за справки не просит! Пишите в комментариях 👇",
+      "highlight_substring": "Она хотя бы Конституцию читала, на обед не уходит и взяток за справки не просит!",
+      "card_source": "Канал «Свободные Люди Запорожья»",
+      "card_badge": "ВОПРОС",
+      "overlay_header": "ВОПРОС К ЗРИТЕЛЯМ"
+    }
+  ]
+}

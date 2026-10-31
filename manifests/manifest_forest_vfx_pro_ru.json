@@ -1,0 +1,52 @@
+{
+  "project_id": "sh_forest_lidar_ru",
+  "channel": "Свободные Люди Запорожья",
+  "topic": "Голос леса и LiDAR в суде: Как ИИ и лазеры ловят браконьеров",
+  "source_url": "https://journal.environcj.in/index.php/ecj/onlinefirst/download/3959/2911",
+  "target_resolution": "1080x1920",
+  "banner_text": "ЛЕС И ПРАВО • ТЕХНОЛОГИИ ЗАЩИТЫ",
+  "card_badge": "ЭКОЛОГИЯ",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "target_duration_sec": 11,
+      "voiceover_ru": "Деревья в лесу общаются и чувствуют повреждения. Новейшие биодатчики улавливают ультразвуковые сигналы стресса, превращая лес в живого свидетеля для суда!",
+      "flow_prompt_en": "Vertical 9:16 impossible cinematic VFX camera flight gliding through the bark deep inside the trunk of a centuries-old giant oak tree, the wood becoming glowing translucent amber glass revealing pulsing emerald and golden bio-neural impulses running up the fibers from roots to the canopy, magical hyper-detailed, photorealistic 8k, Unreal Engine 5 render style, text-free, no watermarks.",
+      "card_text": "Исследования Forest Bioacoustics 2026: Биоакустические сенсоры фиксируют ультразвук повреждения деревьев с точностью до секунды.",
+      "highlight_substring": "Биоакустические сенсоры фиксируют ультразвук повреждения деревьев",
+      "card_source": "Environmental Conservation Journal 2026",
+      "card_badge": "СЕНСОРЫ",
+      "overlay_header": "ДЕРЕВЬЯ ЧУВСТВУЮТ СТРЕСС"
+    },
+    {
+      "scene_id": 2,
+      "target_duration_sec": 12,
+      "voiceover_ru": "В Европе суд впервые признал запись биоакустических датчиков главным доказательством. Лесорубы не смогли оправдаться: звук спила совпал с криком дерева секунда в секунду!",
+      "flow_prompt_en": "Vertical 9:16 dramatic macro cinematic VFX shot of a sound wave freeze in mid-air inside a misty ancient forest, sonic shockwaves from an illegal chainsaw freeze into razor-sharp blue crystal shock rings hovering between mossy tree trunks, ominous cinematic lighting, photorealistic, 4k, text-free, no watermarks.",
+      "card_text": "Судебный прецедент: Запись биосенсоров признана вещественным доказательством. Штраф €850 000 за уничтожение реликтовой рощи.",
+      "highlight_substring": "Запись биосенсоров признана вещественным доказательством",
+      "card_source": "European Court of Justice · прецедент",
+      "card_badge": "СУД",
+      "overlay_header": "ШТРАФ €850 000"
+    },
+    {
+      "scene_id": 3,
+      "target_duration_sec": 12,
+      "voiceover_ru": "А лазерный сканер ЛидАр создаёт точную цифровую копию срубленного дуба. В суде эксперты восстанавливают живое дерево так, будто время повернули вспять!",
+      "flow_prompt_en": "Vertical 9:16 mind-blowing impossible VFX time-reverse shot in a misty forest clearing, glowing cyan and golden LiDAR point-cloud laser rings sweep upwards around a freshly cut tree stump, magically assembling and materializing back into a colossal living leafy green oak tree right before our eyes, volumetric light rays, hyper-detailed, photorealistic 8k, text-free, no watermarks.",
+      "card_text": "Технология LiDAR в суде: Трёхмерное облако точек восстанавливает объём и возраст уничтоженного дерева для расчёта 100% экологического ущерба.",
+      "highlight_substring": "Трёхмерное облако точек восстанавливает объём и возраст",
+      "card_source": "LiDAR Forensics Report 2026",
+      "card_badge": "LIDAR",
+      "overlay_header": "3D-ОБЛАКО ТОЧЕК В СУДЕ"
+    },
+    {
+      "scene_id": 4,
+      "target_duration_sec": 14,
+      "voiceover_ru": "Представьте: сканер фиксирует каждую разбитую лесовозами дорогу и уничтоженную посадку, обязывая виновных всё восстановить! А вы — хотели бы такую систему в своём городе? Напишите в комментариях и подписывайтесь!",
+      "flow_prompt_en": "Vertical 9:16 impossible VFX transformation shot of a ruined mud forest road with deep puddles and tire ruts, a golden scanning laser sweeps along the dirt, magically fusing the mud into smooth pristine asphalt with blossoming wildflowers and green shoulders under bright sun, uplifting, photorealistic, 4k, text-free, no watermarks.",
+      "overlay_header": "НАВЕДЁМ ПОРЯДОК В ЛЕСАХ?",
+      "card_skip": true
+    }
+  ]
+}

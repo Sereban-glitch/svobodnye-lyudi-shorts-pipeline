@@ -1,0 +1,52 @@
+{
+  "project_id": "sh_contracts_gas_vfx_ru",
+  "channel": "Свободные Люди Запорожья",
+  "topic": "ИИ-рентген договоров и платёжек: Как отсудить скрытые комиссии",
+  "source_url": "https://www.cms.gov/initiatives/no-surprise-billing/overview/policies-resources/overview-rules-fact-sheets",
+  "target_resolution": "1080x1920",
+  "banner_text": "ТАРИФЫ И ПРАВО • ЗАЩИТА ОТ ПЕРЕПЛАТ",
+  "card_badge": "ПРАВО",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "target_duration_sec": 11,
+      "voiceover_ru": "Мелкий шрифт в договоре — это финансовый капкан. Банки и службы прячут скрытые комиссии там, куда человеческий глаз просто не дотянется!",
+      "flow_prompt_en": "Vertical 9:16 impossible extreme macro VFX flight one millimeter above a legal contract sheet, the fine print transforming into a deep dizzying canyon with hidden razor-sharp steel bear traps concealed between paragraph cracks, a golden X-ray laser beam sweeps across, highlighting every trap with a glowing ruby warning light, photorealistic, Unreal Engine 5, 8k, text-free, no watermarks.",
+      "card_text": "CMS Billing Rights 2026: Закон о защите от скрытых начислений признаёт недействительными пункты, напечатанные непропорциональным шрифтом.",
+      "highlight_substring": "признаёт недействительными пункты, напечатанные непропорциональным шрифтом",
+      "card_source": "CMS Billing Rights Regulation 2026",
+      "card_badge": "ЗАКОН",
+      "overlay_header": "КАПКАН МЕЛКОГО ШРИФТА"
+    },
+    {
+      "scene_id": 2,
+      "target_duration_sec": 12,
+      "voiceover_ru": "Но искусственный интеллект сканирует документ за секунду. ИИ-рентген находит незаконные пункты и формулирует иск, от которого у юристов опускаются руки!",
+      "flow_prompt_en": "Vertical 9:16 cinematic VFX shot of an ethereal glowing holographic magnifying glass scanning over a contract page, fiery golden laser beams incinerating the unfair clauses into fading ash, leaving behind clean glowing white parchment with crystal blue protective shield floating above, futuristic legal tech, 4k, photorealistic, text-free, no watermarks.",
+      "card_text": "Судебная практика: Навязанные комиссии и скрытые пени признаются ничтожными. Возврат всех переплат с компенсацией 3% годовых.",
+      "highlight_substring": "Навязанные комиссии и скрытые пени признаются ничтожными",
+      "card_source": "Верховный Суд · практика потребительских споров",
+      "card_badge": "СУД",
+      "overlay_header": "СУД ОТМЕНЯЕТ ПЕНИ"
+    },
+    {
+      "scene_id": 3,
+      "target_duration_sec": 12,
+      "voiceover_ru": "В суде не важен размер корпорации. Одно точное указание на закон перевешивает миллионные бюджеты и ломает любые уловки монополистов!",
+      "flow_prompt_en": "Vertical 9:16 impossible symbolic VFX shot of the brass scales of justice, on one side sits a massive rusty iron weight, a single tiny droplet of glowing liquid gold light falls onto the opposite scale, violently tipping the balance and causing the iron chains to shatter in a blinding explosion of golden sparks, dramatic slow motion, photorealistic, text-free, no watermarks.",
+      "card_text": "Закон о защите прав потребителей: Потребитель освобождается от судебного сбора, а бремя доказывания законности начислений лежит на компании.",
+      "highlight_substring": "бремя доказывания законности начислений лежит на компании",
+      "card_source": "Закон Украины «О защите прав потребителей», ст. 22",
+      "card_badge": "ЗАЩИТА",
+      "overlay_header": "БЕЗ СУДЕБНОГО СБОРА"
+    },
+    {
+      "scene_id": 4,
+      "target_duration_sec": 12,
+      "voiceover_ru": "А как вы поступаете в подобных ситуациях? Напишите своё мнение в комментариях и подписывайтесь на наш канал!",
+      "flow_prompt_en": "Vertical 9:16 impossible underground architectural cross-section of a cozy family house, showing the subterranean dirt layers and an old cast iron gas pipe turning into clear glowing glass, gold coins flying outward inside the pipe suddenly reverse direction upon the strike of a glowing judge's gavel, rushing back into the home's wallet, uplifting, photorealistic 8k, text-free, no watermarks.",
+      "overlay_header": "ВЕРНЁМ ПЕРЕПЛАТЫ?",
+      "card_skip": true
+    }
+  ]
+}

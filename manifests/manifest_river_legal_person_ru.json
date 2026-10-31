@@ -1,0 +1,52 @@
+{
+  "project_id": "sh_river_legal_person_ru",
+  "channel": "Свободные Люди Запорожья",
+  "topic": "Река — это гражданин: Как природе дают права человека",
+  "source_url": "https://www.legislation.govt.nz/act/public/2017/0007/latest/DLM6830851.html",
+  "target_resolution": "1080x1920",
+  "banner_text": "ПРИРОДА И ПРАВО • РЕКА КАК ГРАЖДАНИН",
+  "card_badge": "ПРАВО",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "target_duration_sec": 10,
+      "voiceover_ru": "Река может быть признана полноправным лицом со своими правами и судебной защитой. И это не философская метафора, а реальный закон, который уже работает в мире!",
+      "flow_prompt_en": "Vertical 9:16 cinematic aerial shot of a magnificent emerald-green river flowing through a lush ancient canyon in morning mist, dramatic sun rays piercing the fog, steep mossy cliffs, epic nature documentary, photorealistic, 4k, text-free, no people, no boats, no watermarks.",
+      "card_text": "Парламент Новой Зеландии (Закон Te Awa Tupua 2017): река Уонгануи признана неделимым живым целым со всеми правами, полномочиями и обязанностями юридического лица.",
+      "highlight_substring": "неделимым живым целым со всеми правами, полномочиями и обязанностями юридического лица",
+      "card_source": "New Zealand Legislation, 2017 · перевод",
+      "card_badge": "ЗАКОН",
+      "overlay_header": "РЕКА КАК ЮРИДИЧЕСКОЕ ЛИЦО"
+    },
+    {
+      "scene_id": 2,
+      "target_duration_sec": 15,
+      "voiceover_ru": "В Новой Зеландии парламент наделил реку Уонгануи статусом живого неделимого субъекта права. А чтобы река могла реально защищаться, закон учредил двух официальных опекунов, которые от её имени подают иски в суд!",
+      "flow_prompt_en": "Vertical 9:16 cinematic extreme macro shot of crystal clear mountain river water rushing smoothly over colorful polished river stones, golden sun caustics dancing underwater, tiny bubbles, shallow depth of field, slow motion, photorealistic, 4k, clean, text-free, no people, no watermarks.",
+      "card_text": "Два официальных опекуна (Pou Tupua) представляют интересы реки, выступая от её имени во всех судебных процессах и государственных органах.",
+      "highlight_substring": "выступая от её имени во всех судебных процессах",
+      "card_source": "Te Awa Tupua Act, Section 18 · перевод",
+      "card_badge": "ОПЕКУНЫ",
+      "overlay_header": "ОФИЦИАЛЬНЫЕ ОПЕКУНЫ РЕКИ"
+    },
+    {
+      "scene_id": 3,
+      "target_duration_sec": 16,
+      "voiceover_ru": "Эту практику подхватили и другие страны. В Индии Высокий суд Уттаракханда признал живыми лицами реки Ганг и Ямуна. А в Испании статус субъекта права получила лагуна Мар-Менор. Теперь за загрязнение воды иск нарушителям предъявляет сама природа!",
+      "flow_prompt_en": "Vertical 9:16 majestic cinematic shot of a roaring turquoise river rushing between towering canyon rock walls, dramatic waterfalls plunging from cliffs into the river, ethereal mist and rainbow in volumetric sunlight, 4k, National Geographic style, text-free, no people, no watermarks.",
+      "card_text": "Высокий суд Уттаракханда (Индия) и Закон Испании № 19/2022: реки Ганг, Ямуна и лагуна Мар-Менор признаны правовыми субъектами с правом на защиту от загрязнения.",
+      "highlight_substring": "признаны правовыми субъектами с правом на защиту от загрязнения",
+      "card_source": "Uttarakhand High Court & BOE Spain · перевод",
+      "card_badge": "ПРЕЦЕДЕНТ",
+      "overlay_header": "ПРАВОСУБЪЕКТНОСТЬ ЭКОСИСТЕМ"
+    },
+    {
+      "scene_id": 4,
+      "target_duration_sec": 13,
+      "voiceover_ru": "Только представьте, если бы наш Днепр мог лично судиться с чиновниками за сбросы отходов и незаконную застройку берегов. Согласны ли вы с такими правами для рек? Напишите в комментариях и подписывайтесь!",
+      "flow_prompt_en": "Vertical 9:16 cinematic golden hour shot over a serene wide river reflecting fiery orange and violet sunset clouds, peaceful water ripples reflecting golden light, silhouettes of distant pine trees, uplifting, majestic, photorealistic, 4k, text-free, no people, no watermarks.",
+      "overlay_header": "ДНЕПРУ НУЖНЫ СВОИ ПРАВА?",
+      "card_skip": true
+    }
+  ]
+}

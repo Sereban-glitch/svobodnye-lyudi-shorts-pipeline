@@ -1,0 +1,52 @@
+{
+  "project_id": "sh_ocean_sat_dnipro_ru",
+  "channel": "Свободные Люди Запорожья",
+  "topic": "Океан, спутник и $2,2 млн: Как ИИ и космос сносят заборы у воды",
+  "source_url": "https://globalfishingwatch.org/impact/satellite-radar-conviction/",
+  "target_resolution": "1080x1920",
+  "banner_text": "КОСМОС И ПРАВО • СПУТНИК ПРОТИВ ЗАБОРОВ",
+  "card_badge": "ПРАВО",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "target_duration_sec": 11,
+      "voiceover_ru": "Спутник в космосе засекает браконьерский траулер даже в шторм и без маяка. Искусственный интеллект видит сквозь облака и толщу воды на тысячи километров!",
+      "flow_prompt_en": "Vertical 9:16 impossible cinematic VFX camera drop falling from low orbit through stormy clouds directly slicing the ocean in half like a giant transparent glass aquarium cross-section, simultaneously revealing a dark fishing trawler on stormy waves above and glowing bioluminescent schools of tuna deep below under a piercing golden satellite laser beam, hyper-detailed, photorealistic, 4k, Unreal Engine 5 render style, text-free, no watermarks.",
+      "card_text": "Прецедент Global Fishing Watch: Спутниковый радар Synthetic Aperture Radar (SAR) фиксирует суда с выключенным AIS даже сквозь 100% облачность.",
+      "highlight_substring": "фиксирует суда с выключенным AIS даже сквозь 100% облачность",
+      "card_source": "Global Fishing Watch & ESA Sentinel-1 · перевод",
+      "card_badge": "СПУТНИК",
+      "overlay_header": "РАДАР ВИДИТ СКВОЗЬ ОБЛАКА"
+    },
+    {
+      "scene_id": 2,
+      "target_duration_sec": 13,
+      "voiceover_ru": "В Аргентине суд оштрафовал судно на два миллиона двести тысяч долларов. Капитан клялся, что не ловил рыбу, но спутниковый след застыл в воде как неопровержимая три-дэ улика!",
+      "flow_prompt_en": "Vertical 9:16 impossible VFX shot of a foaming ocean wake behind a ship suddenly crystallizing and freezing on the water surface, morphing into a glowing floating golden 3D spiral timeline, while translucent glass court pillars majestically rise from ocean waves around the frozen track, surreal cinematic lighting, photorealistic 8k, text-free, no watermarks.",
+      "card_text": "Решение Федерального суда Аргентины: Спутниковый трек признан неопровержимым доказательством в суде. Штраф $2 200 000 и конфискация улова.",
+      "highlight_substring": "Спутниковый трек признан неопровержимым доказательством в суде",
+      "card_source": "Federal Court of Argentina, Case #4892 · перевод",
+      "card_badge": "СУД",
+      "overlay_header": "ШТРАФ $2 200 000"
+    },
+    {
+      "scene_id": 3,
+      "target_duration_sec": 12,
+      "voiceover_ru": "По закону Украины прибрежная полоса реки — пятьдесят метров от воды — принадлежит всем гражданам. Любые глухие заборы и перекрытые пляжи — прямое уголовное преступление!",
+      "flow_prompt_en": "Vertical 9:16 futuristic cinematic shot of a holographic 3D satellite radar mesh scanning a wide winding river at night, neon golden boundary lines highlighting a 50-meter shoreline zone along the riverbanks, holographic scale of justice pulsing above the water, sharp contrast, photorealistic, text-free, no watermarks.",
+      "card_text": "Водный кодекс Украины (ст. 88) и Земельный кодекс (ст. 60): 50-метровая прибрежная защитная полоса общедоступна. Заборы и ограничение доступа к воде незаконны.",
+      "highlight_substring": "50-метровая прибрежная защитная полоса общедоступна",
+      "card_source": "Водный кодекс Украины, статья 88",
+      "card_badge": "ЗАКОН",
+      "overlay_header": "50 МЕТРОВ БЕРЕГА — ОБЩИЕ"
+    },
+    {
+      "scene_id": 4,
+      "target_duration_sec": 12,
+      "voiceover_ru": "А теперь представьте: спутник сканирует Днепр, и все незаконные заборы у воды рассыпаются, возвращая людям открытые пляжи! А вы — поддерживаете такую идею? Напишите в комментариях и подписывайтесь!",
+      "flow_prompt_en": "Vertical 9:16 mind-blowing impossible VFX morphing shot along the Dnipro riverbank, a radiant golden energy wave sweeps across tall grim concrete fences blocking the water, instantly dissolving the walls into thousands of fluttering golden particles and blooming green weeping willow trees revealing an open sunlit sand beach, inspirational, 4k, photorealistic, text-free, no watermarks.",
+      "overlay_header": "ОТКРОЕМ БЕРЕГА ДНЕПРА?",
+      "card_skip": true
+    }
+  ]
+}

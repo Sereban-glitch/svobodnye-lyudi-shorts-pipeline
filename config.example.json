@@ -1,0 +1,9 @@
+{
+  "youtube": {
+    "expected_channel_id": "UC1KtjDqNXlN6qqXVUh0Y5Mw",
+    "token": "token.json",
+    "login_hint": "channel_owner@gmail.com",
+    "video": "final_short.mp4",
+    "thumbnail": "thumbnail.jpg"
+  }
+}

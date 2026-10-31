@@ -1,0 +1,43 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Secrets and OAuth credentials (CRITICAL - NEVER COMMIT)
+token.json
+client_secret*.json
+*.pickle
+*.pem
+*.key
+.env*
+config.json
+
+# Browser sessions, profiles and cookies
+chrome-flow-acc*
+.config/chrome-*
+session_cache/
+*.cookie
+*.cookies
+
+# Heavy media files and render artifacts
+*.mp4
+*.wav
+*.mp3
+source/
+cards/
+preview_frames/
+thumb_base.png
+thumbnail.jpg
+upload_result.json
+final_short.mp4
+
+# Temporary logs and system files
+*.log
+.DS_Store
+Thumbs.db

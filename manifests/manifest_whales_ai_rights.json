@@ -1,0 +1,52 @@
+{
+  "project_id": "sh_whales_ai_rights",
+  "channel": "Свободные Люди Запорожья",
+  "topic": "Наука и право: ИИ расшифровал язык кашалотов",
+  "source_url": "https://www.law.nyu.edu/news/ideas/cesar-rodriguez-garavito-animal-communication-ai",
+  "target_resolution": "1080x1920",
+  "banner_text": "КИТЫ И ПРАВО • ЧТО МЕНЯЕТ ИИ",
+  "card_badge": "НАУКА",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "target_duration_sec": 9,
+      "voiceover_ru": "Кит может перестать быть имуществом и стать субъектом права. Юристы Нью-Йоркского университета объяснили, почему искусственный интеллект делает это реальным уже сейчас.",
+      "flow_prompt_en": "Vertical 9:16 cinematic underwater shot in deep sapphire ocean, a massive sperm whale silhouette gliding slowly through god rays falling from the surface, suspended particles and tiny bubbles drifting, volumetric light, slow camera push-in, National Geographic documentary style, photorealistic, 4k, no people, no boats, no text, no labels, no watermarks.",
+      "card_text": "Понимание коммуникации животных в целом может радикально усилить аргумент за признание животных лицами, а не простым имуществом, перед законом.",
+      "highlight_substring": "лицами, а не простым имуществом, перед законом",
+      "card_source": "NYU Law, 09.02.2026 · перевод",
+      "card_badge": "ПРАВО",
+      "overlay_header": "КИТ — НЕ ИМУЩЕСТВО, А СУБЪЕКТ ПРАВА"
+    },
+    {
+      "scene_id": 2,
+      "target_duration_sec": 15,
+      "voiceover_ru": "Всё началось в океане. Проект СЕТИ годами записывал кашалотов, и алгоритмы нашли у них фонетический алфавит — щелчки, устроенные почти как человеческие гласные. А ещё учёные записали рождение китёнка, в котором синхронно участвовала как минимум дюжина самок.",
+      "flow_prompt_en": "Vertical 9:16 cinematic underwater shot of a pod of sperm whales swimming together in a loose circle in deep blue water, bioluminescent plankton sparkling around them, faint concentric sound-wave rings of light rippling through the water, slow orbital camera movement, ethereal and calm, photorealistic, 4k, no people, no boats, no text, no labels, no watermarks.",
+      "card_text": "Обнаружены свидетельства возможного фонетического алфавита, включая звуки, похожие на гласные человеческого языка, и записи того, как стая синхронно участвует в рождении китёнка.",
+      "highlight_substring": "фонетического алфавита",
+      "card_source": "NYU Law / Project CETI · перевод",
+      "card_badge": "НАУКА",
+      "overlay_header": "У КАШАЛОТОВ НАШЛИ АЛФАВИТ"
+    },
+    {
+      "scene_id": 3,
+      "target_duration_sec": 19,
+      "voiceover_ru": "Год назад юристы Нью-Йоркского университета опубликовали большую статью в американском экологическом журнале. Их вывод: если мы понимаем, что говорят киты, у них появляются основания требовать защиты от жестокости, участия в своей культуре и тишины в океане. Потому что шум ломает их эхолокацию.",
+      "flow_prompt_en": "Vertical 9:16 cinematic macro shot of polished brass scales of justice resting on the ocean floor among soft sand ripples, caustic sunlight patterns dancing across the metal, tiny bubbles rising slowly, a strand of kelp drifting past, shallow depth of field, slow push-in, surreal and dignified, photorealistic, 4k, no people, no hands, no text, no labels, no watermarks.",
+      "card_text": "Признание более широких прав китообразных — например, права на защиту от жестокости или права на участие в культуре — может обеспечить более строгое регулирование подводного шума, который разрушает эхолокацию.",
+      "highlight_substring": "права на защиту от жестокости или права на участие в культуре",
+      "card_source": "Ecology Law Quarterly, октябрь 2025 · перевод",
+      "card_badge": "ПРАВО",
+      "overlay_header": "ПРАВО НА ТИШИНУ В ОКЕАНЕ"
+    },
+    {
+      "scene_id": 4,
+      "target_duration_sec": 13,
+      "voiceover_ru": "И вот честно: это пока аргумент юристов, а не закон. Но когда мы научимся говорить с китами, главное — не рассказывать им про наши налоги и коммунальные тарифы. Подписывайтесь на Свободные Люди Запорожья.",
+      "flow_prompt_en": "Vertical 9:16 cinematic slow-motion shot of a sperm whale breaching out of a golden sunset ocean, millions of water droplets sparkling in warm backlight, calm horizon behind, uplifting and epic, camera low near the water surface, photorealistic, 4k, no people, no boats, no text, no labels, no watermarks.",
+      "overlay_header": "ПРИРОДА УМНЕЕ, ЧЕМ МЫ ДУМАЕМ",
+      "card_skip": true
+    }
+  ]
+}
